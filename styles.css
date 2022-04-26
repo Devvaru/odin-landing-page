@@ -2,6 +2,9 @@ body {
 background-color: #F9FAF8;
 margin: 0px;
 font-family: roboto, sans-serif;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
 }
 
 /* Header */
