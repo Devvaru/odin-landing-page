@@ -1,2 +1,2 @@
 # odin-landing-page
-https://syeraru.github.io/odin-landing-page/
+https://devvaru.github.io/odin-landing-page/
